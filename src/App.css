@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.jumbotron {
+  margin: 0;
+  padding: 30px;
+  background-image: linear-gradient(to right, #e0289a, #b0bb1a, #1482ad);
+  color: white;
+}
+
+#jumbo {
+  margin-bottom: 0rem;
+}
+
+.navbar-dark {
+  background-color: #5840df;
+}

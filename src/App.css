@@ -39,8 +39,9 @@
 
 .jumbotron {
   margin: 0;
+  margin-bottom: 0rem;
   padding: 30px;
-  background-image: linear-gradient(to right, #e0289a, #b0bb1a, #1482ad);
+  background-image: linear-gradient(to right, #e0289a, pink, #1482ad);
   color: white;
 }
 
@@ -49,5 +50,18 @@
 }
 
 .navbar-dark {
-  background-color: #5840df;
+  background-color: #cdb8e6;
+}
+
+.col {
+  border: solid 1px blue;
+  margin: 2px;
+}
+.row {
+  border: solid 1px red;
+  margin: 2px;
+}
+
+body {
+  background-color: #bbeafa;
 }
